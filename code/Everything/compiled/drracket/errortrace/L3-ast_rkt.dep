@@ -1,0 +1,1 @@
+("6.8" ("482a7d31a8397e26f6d60f0f6923d355a0a70a6b" . "a257051b0209eecf58729bbafa426cfcd644d5e0") #"/users/studs/bsc/2016/edenkes/Documents/ppl/code/Everything/L1-ast.rkt" #"/users/studs/bsc/2016/edenkes/Documents/ppl/code/Everything/L2-ast.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
